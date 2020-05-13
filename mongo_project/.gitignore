@@ -1,0 +1,11 @@
+.env
+__pycache__
+companies.json
+.ipynb_checkpoints
+.DS_Store
+all_places.json
+old_off.json
+everything.json
+airports2.csv
+CrunchbaseDataset.zip
+clean.jsonjupyter
